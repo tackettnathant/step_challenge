@@ -1,0 +1,27 @@
+h4 {
+    color:#343633;
+}
+form {
+    margin-top:1.25em;
+
+}
+.form-label {
+    font-weight:bold;
+}
+span.required {
+    color:red;
+}
+img.logo {
+    width:100%;
+}
+
+div.register h5 {
+     color:#343633;
+ }
+
+div.register-container {
+    background-color:#ffffff;
+}
+div.form-group{
+    padding:.5em;
+}

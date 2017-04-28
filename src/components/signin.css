@@ -1,0 +1,21 @@
+h4 {
+    color:#343633;
+}
+div.form-group {
+    margin-top:1.25em;
+}
+.form-label {
+    font-weight:bold;
+}
+span.required {
+    color:red;
+}
+img.logo {
+    width:100%;
+}
+div.modal-container div.modal-body{
+    max-height:none;
+}
+div.controls {
+    margin-top:2em;
+}
